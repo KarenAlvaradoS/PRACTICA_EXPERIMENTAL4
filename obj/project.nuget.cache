@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NXxnBYVGFkA=",
   "success": true,
   "projectFilePath": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\GRAFOS\\GRAFOS.csproj",
+=======
+  "dgSpecHash": "g1NmHyvNES0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\PE4\\PE4.csproj",
+>>>>>>> 20474cef04928519d528fb0f99cf4a555aa37c4e
   "expectedPackageFiles": [],
   "logs": []
 }

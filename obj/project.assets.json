@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\GRAFOS\\GRAFOS.csproj",
       "projectName": "GRAFOS",
       "projectPath": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\GRAFOS\\GRAFOS.csproj",
       "packagesPath": "C:\\Users\\EstefaniaAS\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\GRAFOS\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\PE4\\PE4.csproj",
+      "projectName": "PE4",
+      "projectPath": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\PE4\\PE4.csproj",
+      "packagesPath": "C:\\Users\\EstefaniaAS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shinl\\OneDrive\\Escritorio\\DOCUMENTOS VARIOS\\KAREN 3ER SEMESTRE\\ESTRUCTURA DE DATOS\\2DO BLOQUE\\códigos\\PE4\\PE4\\obj\\",
+>>>>>>> 20474cef04928519d528fb0f99cf4a555aa37c4e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
