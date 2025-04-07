@@ -1,0 +1,14 @@
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.AssemblyInfoInputs.cache
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.AssemblyInfo.cs
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.csproj.CoreCompileInputs.cache
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\bin\Debug\net9.0\PE4.exe
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\bin\Debug\net9.0\PE4.deps.json
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\bin\Debug\net9.0\PE4.runtimeconfig.json
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\bin\Debug\net9.0\PE4.dll
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\bin\Debug\net9.0\PE4.pdb
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.dll
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\refint\PE4.dll
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.pdb
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\PE4.genruntimeconfig.cache
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\PE4\obj\Debug\net9.0\ref\PE4.dll
