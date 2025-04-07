@@ -1,0 +1,14 @@
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\bin\Debug\net9.0\GRAFOS.exe
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\bin\Debug\net9.0\GRAFOS.deps.json
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\bin\Debug\net9.0\GRAFOS.runtimeconfig.json
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\bin\Debug\net9.0\GRAFOS.dll
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\bin\Debug\net9.0\GRAFOS.pdb
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.AssemblyInfoInputs.cache
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.AssemblyInfo.cs
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.csproj.CoreCompileInputs.cache
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.dll
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\refint\GRAFOS.dll
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.pdb
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\GRAFOS.genruntimeconfig.cache
+C:\Users\shinl\OneDrive\Escritorio\DOCUMENTOS VARIOS\KAREN 3ER SEMESTRE\ESTRUCTURA DE DATOS\2DO BLOQUE\códigos\PE4\grafos\obj\Debug\net9.0\ref\GRAFOS.dll

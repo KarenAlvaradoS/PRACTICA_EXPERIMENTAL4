@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Crear el grafo ponderado
+        Dictionary<string, List<Tuple<string, int>>> grafo2 = new Dictionary<string, List<Tuple<string, int>>>();
+
+        // Agregar nodos y sus adyacentes con los pesos
+        grafo2["Q"] = new List<Tuple<string, int>> { Tuple.Create("R", 2), Tuple.Create("S", 4) };
+        grafo2["R"] = new List<Tuple<string, int>> { Tuple.Create("T", 1) };
+        grafo2["S"] = new List<Tuple<string, int>> { Tuple.Create("T", 3) };
+        grafo2["T"] = new List<Tuple<string, int>>();
+
+        // Mostrar el grafo
+        MostrarGrafoPonderado(grafo2);
+    }
+
+    static void MostrarGrafoPonderado(Dictionary<string, List<Tuple<string, int>>> grafo)
+    {
+        foreach (var nodo in grafo)
+        {
+            Console.Write($"{nodo.Key}: ");
+            foreach (var adyacente in nodo.Value)
+            {
+                Console.Write($"({adyacente.Item1}, {adyacente.Item2}) ");
+            }
+            Console.WriteLine();
+        }
+    }
+}
+
